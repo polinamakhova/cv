@@ -1,35 +1,32 @@
 person:
-  name: Pavel Makhov
-  profession: Senior Software Developer // Java, Kotlin
+  name: Polina Makhova
+  profession: Product Manager / Experienced Project Manager
   location: Montréal, Canada
-  email: pavel.makhov@outlook.com
-  site: http://pavelmakhov.com
-  linkedin: /streetturtle
-  github: /streetturtle
-  stackoverflow: /streetturtle
-  spokenLanguages: English / French / Russian
+  email: makhova.polina@gmail.com
+  linkedin: /polina-makhova
+  spokenLanguages: English / Russina / French
 career:
 
- - position: Senior Software Developer
-   company: Lightspeed Commerce
-   company-site: https://www.lightspeedhq.com/
+ - position: Senior Technical Project Manager, Business Technology
+   company: Traction on Demand
+   company-site: https://www.tractionondemand.com/
    logo: lightspeed-logo.png
    location: Montreal, Canada
    country: ca
-   dates: 08.2021 - current
-   summary: Working in a small distributed agile team on a Lightspeed Hospitality flagship product. 
+   dates: 04.2020 - current
+   summary: Project Manager on Traction''s internal integrations, data and BI projects 
    accomplishments:
     - accomplishment: breaking a monolithic application into springboot-based microservices
     
- - position: Senior Software Developer
-   company: Solution Media 360
-   company-site: https://360.agency/en/compagnies/sm360-ca360/
+ - position: Project Manager, Delivery
+   company: Traction on Demand
+   company-site: https://www.tractionondemand.com/
    logo: sm-logo.png
    location: Montreal, Canada
    country: ca
-   dates: 01.2021 - 08.2021
-   duration: 7m
-   summary: Develop and design backend java/kotlin-based services for automotive industry - a leader in innovative technological solutions for the car dealership market.
+   dates: 01.2017 - 03.2020
+   duration: 3y 2m
+   summary: Managing customer projects in retail, fintech and education sectors 
    accomplishments:
     - accomplishment: implementation of edge-level authorization mechanism for a set of microservices
     - accomplishment: tier 3 application support  

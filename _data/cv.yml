@@ -1,78 +1,207 @@
-url: http://streetturtle.github.io
-projectUrl: jekyl-cv-crafter
-
-# leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
-  depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
+  name: Pavel Makhov
+  profession: Senior Software Developer // Java, Kotlin
+  location: Montréal, Canada
+  email: pavel.makhov@outlook.com
+  site: http://pavelmakhov.com
+  linkedin: /streetturtle
   github: /streetturtle
   stackoverflow: /streetturtle
-  linkedin: /streetturtle
-
+  spokenLanguages: English / French / Russian
 career:
- - position: Foot Clan Antagonist
-   company: TMNT inc.
-   location: New York, USA
-   dates: September 2014 - current
-   summary: Physically the smallest of the Turtles and the least mature. Mikey is easily distracted and enthusiastic about... well, pretty much everything. He's also extremely creative. He has a thousand ideas, and every now and then, one of them will be brilliant. This combination of creativity and lack of focus gives him a kind of flow that the other Turtles cannot match. He's a social mutant and more than the others, pines to be part of the real world.
+
+ - position: Senior Software Developer
+   company: Lightspeed Commerce
+   company-site: https://www.lightspeedhq.com/
+   logo: lightspeed-logo.png
+   location: Montreal, Canada
+   country: ca
+   dates: 08.2021 - current
+   summary: Working in a small distributed agile team on a Lightspeed Hospitality flagship product. 
    accomplishments:
-    - accomplishment: Mikey is the most agile of all his brothers; his training as a ninja helped to balance and improve this, but his skills in skateboarding and dancing also gives Mikey an edge that will often shock his brothers. Mikey is an extremely good fighter. He's got a great knowledge with ninjutsu, which is why he is a good fighter. He may have the most raw talent of the four, but he does not seem to have the skill to develop it.
-    - accomplishment: He refers to himself as the king of pranks. Since he the most funniest of his brothers and he hasn't shown to be wrong since he was able to show his pranking skills against his brothers like water balloons as he wants to prank them all and he was able to use his prank of water ballon to use against the tank of the truck.
- - position: Shredder enemy
-   company: TMNT
-   location: New York, USA
-   dates: October 2012 – September 2014
-   summary: Impulsive, creative and very social, Michelangelo is the heart and soul of the Ninja Turtles. The runt of the litter, he may be the smallest of his mutant brothers, but that doesn't make him the weakest (just harder to catch). Enemies beware! Michelangelo is a master of the Kusarigama, nunchucks with a secret and sharp surprise!
+    - accomplishment: breaking a monolithic application into springboot-based microservices
+    
+ - position: Senior Software Developer
+   company: Solution Media 360
+   company-site: https://360.agency/en/compagnies/sm360-ca360/
+   logo: sm-logo.png
+   location: Montreal, Canada
+   country: ca
+   dates: 01.2021 - 08.2021
+   duration: 7m
+   summary: Develop and design backend java/kotlin-based services for automotive industry - a leader in innovative technological solutions for the car dealership market.
    accomplishments:
-    - accomplishment: Mikey's skills as a skateboarder and a ninja give him a great ability with balance.
-    - accomplishment: He has the normal ability of a turtle to go into his shell.
+    - accomplishment: implementation of edge-level authorization mechanism for a set of microservices
+    - accomplishment: tier 3 application support  
+
+ - position: Java Developer
+   company: Behavox
+   company-site: http://www.behavox.com/
+   logo: behavox.jpg
+   location: Montreal, Canada
+   country: ca
+   dates: 01.2020 - 01.2021
+   duration: 1y
+   summary: I was working in a product team of Compliance Management Software Solutions. Building data-heavy applications using Java, Kotlin, HBase, MySQL.
+   accomplishments:
+    - accomplishment: extracting services from a monolithic application.
+
+ - position: Backend Developer
+   company: OctaveGroup / TouchTunes
+   company-site: http://www.touchtunes.com/
+   logo: touchtunes.png
+   location: Montreal, Canada
+   country: ca
+   dates: 06.2018 - 12.2019
+   duration: 1y 6m
+   summary: 'Working as a Java Backend Developer in the Product team for the largest in-venue interactive music and entertainment platform, featured in over 75,000 bars and restaurants across North America and Europe. Working in a microservice architecture, with Spring Boot-based services deployed to AWS in Docker containers, managed by Mesos/Marathon. Technology stack: Java 11, Spring Boot, Reactor, Cucumber, MongoDB' 
+   accomplishments:
+    - accomplishment: backend implementation of the <a href="https://www.applemusicforbusiness.apple/">Apple Music For Business</a>.
+    - accomplishment: development of the Access Control System - a set of microservices implementing ABAC authorization model.
+    - accomplishment: development of various payment integrations with Worldpay/Vantiv, PayPal, Apple Pay, Google Pay.
+
+ - position: Full Stack Java Developer
+   company: Intelerad
+   company-site: https://www.intelerad.com/
+   logo: intelerad.png
+   location: Montreal, Canada
+   country: ca
+   dates: 01.2018 - 05.2018
+   duration: 5m
+   summary: 'Development of the PACS - Picture Archiving and Communication System. My primary focus was on Tech Portal - a customization tool that allows technologists to create multiple worklists based on different criteria, including exam status, date range, modality, organizations, locations and rooms. Tech stack: GWT, CSS / SCSS, AngularJS.'
+
+ - position: Java Developer / Consultant
+   company: Savoir-Faire Linux
+   company-site: https://savoirfairelinux.com
+   logo: sflx.png
+   location: Montreal, Canada
+   country: ca
+   dates: 08.2016 - 12.2017
+   duration: 1y 5m
+   accomplishments:
+    - accomplishment: Took part in development of high performance highly available Music REST API.
+    - accomplishment: Development of the real-time data processing application based on Apache Mahout and Apache Kafka.
+    - accomplishment: Development of Proof of Concept WebRTC Liferay portlet, Content Classifier portlet (based on <a href="https://deeplearning4j.org/">DL4J</a> library).
+    - accomplishment: Took part in building data pipeline for a ML project.
+
+ - position: Java/Alfresco Developer
+   company: CERN
+   company-site: https://home.cern/
+   logo: cern.jpg
+   location: Geneva, Switzerland
+   country: ch
+   dates: 10.2012 - 05.2016
+   duration: 3y 9m
+   summary: I took part in the development of business critical eFiles document management system based on open source solution - Alfresco – the market leader in records management. As an Alfresco developer I worked on extending and customizing Alfresco. I also worked on EDH (Electronic Document Handling) system with complex workflows, covering most business aspects at CERN. In this role I was developing EDH documents and improving functionality of existing ones.
+   accomplishments:
+    - accomplishment: Integrating Alfresco with AppDynamics - application performance management system.
+    - accomplishment: Development of the web application for 2nd/3rd support of eFiles. Technology stack is Spring Boot, AngularJS, Spring Data Rest.
+    - accomplishment: Development of the custom user interface of Alfresco document library page based on Polymer.
+    - accomplishment: Extending functionality of CERN Hotel web booking application (hostel.cern.ch). Main feature developed is the possibility to create a Waiting-List reservations.
+    - accomplishment: Migrating existing business processes from BPEL to BPMN (Activiti).
+    - accomplishment: Production / 3rd level support
+
+ #- position: Software Developer
+ #  company: Probusinessbank
+ #  logo: life.jpg
+ #  location: Moscow, Russia
+#   country: ru
+#   dates: 10.2011 – 07.2012
+#   duration: 10m
+#   summary: While finishing the study at University I got a job at Probusinessbank in Moscow, one of TOP-50 banks in Russia. During my time there, I was responsible for several activities.
+#   accomplishments:
+#    - accomplishment: Development of web-services communicating with external systems such as credit agencies, payment systems.
+#    - accomplishment: Extending of the functionality of Mobile banking system, server-side part, which was the theme for my diploma project.
+#    - accomplishment: Development of Web-Service in order to generate PDF reports using XSL-FO transformations.
 
 technicalSkills:
   list:
-    - tr: "Impulsive, creative and very social"
-    - tr: "Heart and soul of the Ninja Turtles"
-    - tr: "Master of the Kusarigama and nunchucks"
-    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
-    - tr: "First of the turtles to taste pizza"
-    - tr: "Very proud of his talent for naming thing"
-  backend:
-   - name: Ninjutsu
-     level: 90
-   - name: Kusarigama
+    - tr: "Java / Kotlin / Lua / Python / Swift"
+    - tr: "Spring / Reactor / Hibernate / JUnit / Mockito / Spock"
+    - tr: "Oracle, MySQL / Mongo, Redis, Couchbase"
+    - tr: "Datadog / Dynatrace / Sumologic"
+    - tr: "TDD / BDD (Cucumber)"
+    - tr: "Kafka / RabbitMQ"
+    - tr: "Maven / Bower / Grunt / NPM"
+    - tr: "REST / SOAP web-services"
+    - tr: "Git / Mercurial / Gerrit"
+    - tr: "Scrum / Agile / pair programming experience"
+  left:
+    - name: Java
+      level: 100
+    - name: Python
+      level: 70
+  center:
+   - name: AngularJS/Polymer/JS/Dart
      level: 80
-  frontend:
-   - name: Cooking Skills
-     level: 80
-   - name: Pranks
+   - name: HTML / CSS/SCSS / Bootstrap
      level: 90
-  other:
-   - name: Shadow Puppet Skill
+  right:
+   - name: Apache Kafka
      level: 90
-   - name: Teaching
-     level: 100
+   - name: Hadoop, Apache Spark
+     level: 60
 
 sideProjects:
-  - name: jekyll-clean-dark
-    description: Theme for Jekyll - static site generator. After creating theme for my blog I shared it on github.
-    link: https://github.com/streetturtle/jekyll-clean-dark
-    type: github
-    langs: HTML/CSS/Bootstrap
 
-  - name: number-writing-trainer
-    description: Application which helps with learning foreign numerals. Was created to help with learning how to write french numbers as well as to practice AngularJS.
-    link: http://pavelmakhov.com/number-writing-trainer/#/
-    type: site
-    langs: AngularJS/HTML/CSS/Bootstrap
+  - name: Awesome WM widgets
+    description: Collection of widgets for the tiling window manager for Linux called Awesome.
+    link: streetturtle/awesome-wm-widgets
+    type: github
+    langs: Lua
+    color: 000080
+
+  - name: PDF-element
+    description: Web component built with Polymer which allows rendering PDF files.
+    link: streetturtle/pdf-element
+    type: github
+    langs: JavaScript
+    color: f1e05a
+
+  - name: Jekyll Clean Dark
+    description: Theme for Jekyll - static site generator used by GitHub for GitHub pages by default.
+    link: streetturtle/jekyll-clean-dark
+    type: github
+    langs: HTML
+    color: e44b23
+
+  - name: Jekyll CV Crafter
+    description: To be able to easy update/view/print my CV I created jekyll powered CV generator.
+    link: streetturtle/jekyll-cv-crafter
+    type: github
+    langs: HTML
+    color: e44b23
+
+certifications:
+  - name: FP Principles in Scala
+    issuer: Coursera
+    date: July 2016
+    link: https://www.coursera.org/account/accomplishments/verify/ZBYZ6J458R9Z
+    badge: coursera_cert.png
+  - name: Data Science Foundations
+    issuer: IBM (Big Data University)
+    date: December 2016
+    link: https://www.youracclaim.com/badges/d591811c-74fc-414f-a360-d24838c257dd
+    badge: data_sci_found_cert.png
+  - name: Hadoop Programming
+    issuer: IBM (Big Data University)
+    date: December 2016
+    link: https://www.youracclaim.com/badges/d6b2f959-1029-4e89-88f0-117c0c130fc4
+    badge: hadoop_cert.png
+  - name: Scala Programming for Data Science
+    issuer: IBM (Big Data University)
+    date: December 2016
+    link: https://www.youracclaim.com/badges/c8a35db4-61ab-4365-ad57-bcf973696bc6
+    badge: scala_cert.png
+  - name: Spark
+    issuer: IBM (Big Data University)
+    date: January 2017
+    link: https://www.youracclaim.com/badges/c2b8ce85-70ec-446d-8b59-702459cb1849
+    badge: spark-cert.png
 
 education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
+  - name: National Research University of Electronic Technology
+    degree: Master of Computer Science
+    location: Moscow, Russia
     dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
+    link: https://eng.miet.ru/

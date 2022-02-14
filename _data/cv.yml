@@ -3,7 +3,7 @@ person:
   profession: Product Manager / Project Manager
   location: Montreal, Canada
   email: makhova.polina@gmail.com
-  linkedin: /polina-makhova
+  linkedin: polina-makhova
   spokenLanguages: English / Russian / French
   
 profile:
@@ -59,9 +59,9 @@ career:
 
 technicalSkills:
   list:
-    - tr: "Timeline / Risk / Stakeholder/ Roadmap Management"
+    - tr: "Timeline / Risk / Stakeholders / Roadmap Management"
     - tr: "Agile / Waterfall"
-    - tr: "Leading distributed, cross-funtional teams"
+    - tr: "Leading distributed, cross-functional teams"
     - tr: "Salesforce Administration"
     - tr: "Tableau"
     

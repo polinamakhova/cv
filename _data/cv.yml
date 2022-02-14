@@ -4,7 +4,7 @@ person:
   location: Montréal, Canada
   email: makhova.polina@gmail.com
   linkedin: /polina-makhova
-  spokenLanguages: English / Russina / French
+  spokenLanguages: English / Russian / French
 career:
 
  - position: Senior Technical Project Manager, Business Technology
@@ -14,9 +14,13 @@ career:
    location: Montreal, Canada
    country: ca
    dates: 04.2020 - current
-   summary: Project Manager on Traction''s internal integrations, data and BI projects 
+   summary: Leading internal Integration, Data and BI projects 
    accomplishments:
-    - accomplishment: breaking a monolithic application into springboot-based microservices
+    - accomplishment: Identifying and maintaining scope and roadmap for Integration and BI projects
+    - accomplishment: Managing Salesforce, Integration, Data Migration and BI projects from kick-off to closure
+    - accomplishment: Identifying and implementing a framework for delivering Integration and BI projects
+    - accomplishment: Building trust through regular, transparent and precise communication to stakeholders
+    - accomplishment: Managing projects where team members and stakeholders are located in different time zones
     
  - position: Project Manager, Delivery
    company: Traction on Demand
@@ -25,91 +29,30 @@ career:
    location: Montreal, Canada
    country: ca
    dates: 01.2017 - 03.2020
-   duration: 3y 2m
-   summary: Managing customer projects in retail, fintech and education sectors 
+   duration: 3yrs 2mos
+   summary: Managing customer Salesforce projects in retail, fintech and education sectors 
    accomplishments:
-    - accomplishment: implementation of edge-level authorization mechanism for a set of microservices
-    - accomplishment: tier 3 application support  
+    - accomplishment: Running requirements gathering sessions with key stakeholders
+    - accomplishment: Creating and maintaning technical solution documentation to support project implementation and scope management
+    - accomplishment: Validating project deliverables against stakeholders requirements
+    - accomplishment: Managing risks and identifying mitigation strategies
+    - accomplishment: Managing day-to-day tasks for internal teams and stakeholders to ensure project timely delivery
 
- - position: Java Developer
-   company: Behavox
-   company-site: http://www.behavox.com/
+ - position: IT/IS Junior Associate
+   company: Global Alliance for Improved Nutrition (GAIN)
+   company-site: https://www.gainhealth.org/
    logo: behavox.jpg
-   location: Montreal, Canada
-   country: ca
-   dates: 01.2020 - 01.2021
-   duration: 1y
-   summary: I was working in a product team of Compliance Management Software Solutions. Building data-heavy applications using Java, Kotlin, HBase, MySQL.
-   accomplishments:
-    - accomplishment: extracting services from a monolithic application.
-
- - position: Backend Developer
-   company: OctaveGroup / TouchTunes
-   company-site: http://www.touchtunes.com/
-   logo: touchtunes.png
-   location: Montreal, Canada
-   country: ca
-   dates: 06.2018 - 12.2019
-   duration: 1y 6m
-   summary: 'Working as a Java Backend Developer in the Product team for the largest in-venue interactive music and entertainment platform, featured in over 75,000 bars and restaurants across North America and Europe. Working in a microservice architecture, with Spring Boot-based services deployed to AWS in Docker containers, managed by Mesos/Marathon. Technology stack: Java 11, Spring Boot, Reactor, Cucumber, MongoDB' 
-   accomplishments:
-    - accomplishment: backend implementation of the <a href="https://www.applemusicforbusiness.apple/">Apple Music For Business</a>.
-    - accomplishment: development of the Access Control System - a set of microservices implementing ABAC authorization model.
-    - accomplishment: development of various payment integrations with Worldpay/Vantiv, PayPal, Apple Pay, Google Pay.
-
- - position: Full Stack Java Developer
-   company: Intelerad
-   company-site: https://www.intelerad.com/
-   logo: intelerad.png
-   location: Montreal, Canada
-   country: ca
-   dates: 01.2018 - 05.2018
-   duration: 5m
-   summary: 'Development of the PACS - Picture Archiving and Communication System. My primary focus was on Tech Portal - a customization tool that allows technologists to create multiple worklists based on different criteria, including exam status, date range, modality, organizations, locations and rooms. Tech stack: GWT, CSS / SCSS, AngularJS.'
-
- - position: Java Developer / Consultant
-   company: Savoir-Faire Linux
-   company-site: https://savoirfairelinux.com
-   logo: sflx.png
-   location: Montreal, Canada
-   country: ca
-   dates: 08.2016 - 12.2017
-   duration: 1y 5m
-   accomplishments:
-    - accomplishment: Took part in development of high performance highly available Music REST API.
-    - accomplishment: Development of the real-time data processing application based on Apache Mahout and Apache Kafka.
-    - accomplishment: Development of Proof of Concept WebRTC Liferay portlet, Content Classifier portlet (based on <a href="https://deeplearning4j.org/">DL4J</a> library).
-    - accomplishment: Took part in building data pipeline for a ML project.
-
- - position: Java/Alfresco Developer
-   company: CERN
-   company-site: https://home.cern/
-   logo: cern.jpg
    location: Geneva, Switzerland
    country: ch
-   dates: 10.2012 - 05.2016
-   duration: 3y 9m
-   summary: I took part in the development of business critical eFiles document management system based on open source solution - Alfresco – the market leader in records management. As an Alfresco developer I worked on extending and customizing Alfresco. I also worked on EDH (Electronic Document Handling) system with complex workflows, covering most business aspects at CERN. In this role I was developing EDH documents and improving functionality of existing ones.
+   dates: 08.2014 - 05.2016
+   duration: 1yr 10mos
+   summary: Supporting key Information Systems within GAIN
    accomplishments:
-    - accomplishment: Integrating Alfresco with AppDynamics - application performance management system.
-    - accomplishment: Development of the web application for 2nd/3rd support of eFiles. Technology stack is Spring Boot, AngularJS, Spring Data Rest.
-    - accomplishment: Development of the custom user interface of Alfresco document library page based on Polymer.
-    - accomplishment: Extending functionality of CERN Hotel web booking application (hostel.cern.ch). Main feature developed is the possibility to create a Waiting-List reservations.
-    - accomplishment: Migrating existing business processes from BPEL to BPMN (Activiti).
-    - accomplishment: Production / 3rd level support
-
- #- position: Software Developer
- #  company: Probusinessbank
- #  logo: life.jpg
- #  location: Moscow, Russia
-#   country: ru
-#   dates: 10.2011 – 07.2012
-#   duration: 10m
-#   summary: While finishing the study at University I got a job at Probusinessbank in Moscow, one of TOP-50 banks in Russia. During my time there, I was responsible for several activities.
-#   accomplishments:
-#    - accomplishment: Development of web-services communicating with external systems such as credit agencies, payment systems.
-#    - accomplishment: Extending of the functionality of Mobile banking system, server-side part, which was the theme for my diploma project.
-#    - accomplishment: Development of Web-Service in order to generate PDF reports using XSL-FO transformations.
+    - accomplishment: Building and maintainig company''s Project Management Information System in QuickBase
+    - accomplishment: Gathering requirements from key stakeholders in Project Management and Research & Development departments
+    - accomplishment: Building and maintaining company''s SharePoint pages
+    - accomplishment: Tier 1 IT support
+    - accomplishment: Active participation in Internal Communition initiatives
 
 technicalSkills:
   list:
@@ -122,83 +65,29 @@ technicalSkills:
     - tr: "Maven / Bower / Grunt / NPM"
     - tr: "REST / SOAP web-services"
     - tr: "Git / Mercurial / Gerrit"
-    - tr: "Scrum / Agile / pair programming experience"
-  left:
-    - name: Java
-      level: 100
-    - name: Python
-      level: 70
-  center:
-   - name: AngularJS/Polymer/JS/Dart
-     level: 80
-   - name: HTML / CSS/SCSS / Bootstrap
-     level: 90
-  right:
-   - name: Apache Kafka
-     level: 90
-   - name: Hadoop, Apache Spark
-     level: 60
+    - tr: "Scrum / Agile / pair programming experience
 
-sideProjects:
-
-  - name: Awesome WM widgets
-    description: Collection of widgets for the tiling window manager for Linux called Awesome.
-    link: streetturtle/awesome-wm-widgets
-    type: github
-    langs: Lua
-    color: 000080
-
-  - name: PDF-element
-    description: Web component built with Polymer which allows rendering PDF files.
-    link: streetturtle/pdf-element
-    type: github
-    langs: JavaScript
-    color: f1e05a
-
-  - name: Jekyll Clean Dark
-    description: Theme for Jekyll - static site generator used by GitHub for GitHub pages by default.
-    link: streetturtle/jekyll-clean-dark
-    type: github
-    langs: HTML
-    color: e44b23
-
-  - name: Jekyll CV Crafter
-    description: To be able to easy update/view/print my CV I created jekyll powered CV generator.
-    link: streetturtle/jekyll-cv-crafter
-    type: github
-    langs: HTML
-    color: e44b23
 
 certifications:
-  - name: FP Principles in Scala
-    issuer: Coursera
-    date: July 2016
-    link: https://www.coursera.org/account/accomplishments/verify/ZBYZ6J458R9Z
+  - name: Salesforce Certified Administrator
+    issuer: Salesforce
+    date: April 2017
     badge: coursera_cert.png
-  - name: Data Science Foundations
-    issuer: IBM (Big Data University)
-    date: December 2016
-    link: https://www.youracclaim.com/badges/d591811c-74fc-414f-a360-d24838c257dd
+  - name: Certified Srum Master (CSM)
+    issuer: Scrum Alliance
+    date: November 2020
+    link: https://bcert.me/bc/html/show-badge.html?b=dunxujtm
     badge: data_sci_found_cert.png
-  - name: Hadoop Programming
-    issuer: IBM (Big Data University)
-    date: December 2016
-    link: https://www.youracclaim.com/badges/d6b2f959-1029-4e89-88f0-117c0c130fc4
-    badge: hadoop_cert.png
-  - name: Scala Programming for Data Science
-    issuer: IBM (Big Data University)
-    date: December 2016
-    link: https://www.youracclaim.com/badges/c8a35db4-61ab-4365-ad57-bcf973696bc6
-    badge: scala_cert.png
-  - name: Spark
-    issuer: IBM (Big Data University)
-    date: January 2017
-    link: https://www.youracclaim.com/badges/c2b8ce85-70ec-446d-8b59-702459cb1849
-    badge: spark-cert.png
 
 education:
   - name: National Research University of Electronic Technology
-    degree: Master of Computer Science
+    degree: Master''s degree, Computer Science and Telecommunications
     location: Moscow, Russia
-    dates: 2007 – 2012
+    dates: 2007 – 2013
     link: https://eng.miet.ru/
+ - name: Wrexham Glyndŵr University
+    degree: Master''s degree, Computer Science
+    location: Wrexham, UK
+    dates: 2011 – 2013
+    link: https://glyndwr.ac.uk/
+    

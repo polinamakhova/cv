@@ -1,7 +1,7 @@
 person:
   name: Polina Makhova
   profession: Product Manager / Experienced Project Manager
-  location: Montréal, Canada
+  location: Montreal, Canada
   email: makhova.polina@gmail.com
   linkedin: /polina-makhova
   spokenLanguages: English / Russian / French
@@ -13,7 +13,7 @@ career:
  - position: Senior Technical Project Manager, Business Technology
    company: Traction on Demand
    company-site: https://www.tractionondemand.com/
-   logo: lightspeed-logo.png
+   logo: Traction.png
    location: Montreal, Canada
    country: ca
    dates: 04.2020 - current
@@ -28,7 +28,7 @@ career:
  - position: Project Manager, Delivery
    company: Traction on Demand
    company-site: https://www.tractionondemand.com/
-   logo: sm-logo.png
+   logo: Traction.png
    location: Montreal, Canada
    country: ca
    dates: 01.2017 - 03.2020
@@ -44,7 +44,7 @@ career:
  - position: IT/IS Junior Associate
    company: Global Alliance for Improved Nutrition (GAIN)
    company-site: https://www.gainhealth.org/
-   logo: behavox.jpg
+   logo: gain.jpeg
    location: Geneva, Switzerland
    country: ch
    dates: 08.2014 - 05.2016
@@ -69,12 +69,12 @@ certifications:
   - name: Salesforce Certified Administrator
     issuer: Salesforce
     date: April 2017
-    badge: coursera_cert.png
+    badge: Salesforce.jpeg
   - name: Certified Srum Master (CSM)
     issuer: Scrum Alliance
     date: November 2020
     link: https://bcert.me/sdunxujtm
-    badge: data_sci_found_cert.png
+    badge: scm.png
 
 education:
   - name: National Research University of Electronic Technology

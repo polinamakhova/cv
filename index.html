@@ -166,10 +166,10 @@
 
 
   <div class="row section">
-    <div class="col-xs-3">
+    <div class="col-xs-2">
       <h2>Skills</h2>
     </div>
-    <div class="col-xs-9">
+    <div class="col-xs-10">
       <div class="competencies">
         <ul>
           {% for item in site.data.cv.technicalSkills.list %}
@@ -182,8 +182,8 @@
   </div>
 
   <div class="row section">
-    <div class="col-xs-3"><h2>Certifications</h2></div>
-    <div class="col-xs-9">
+    <div class="col-xs-2"><h2>Certs</h2></div>
+    <div class="col-xs-10">
       {% for item in site.data.cv.certifications %}
 
       {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
@@ -212,8 +212,8 @@
 
 
   <div class="row section">
-    <div class="col-xs-3"><h2>Education</h2></div>
-    <div class="col-xs-9">
+    <div class="col-xs-2"><h2>Education</h2></div>
+    <div class="col-xs-10">
 
       {% for item in site.data.cv.education %}
       <div class="row">

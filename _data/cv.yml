@@ -5,6 +5,9 @@ person:
   email: makhova.polina@gmail.com
   linkedin: /polina-makhova
   spokenLanguages: English / Russian / French
+  
+profile:
+  profile: Experienced project manager with keen interest in technology, operation processes and UX. Supporting teams on different levels, depending on current business priorities and team needs.
 
 career:
  - position: Senior Technical Project Manager, Business Technology
@@ -56,17 +59,11 @@ career:
 
 technicalSkills:
   list:
-    - tr: "Java / Kotlin / Lua / Python / Swift"
-    - tr: "Spring / Reactor / Hibernate / JUnit / Mockito / Spock"
-    - tr: "Oracle, MySQL / Mongo, Redis, Couchbase"
-    - tr: "Datadog / Dynatrace / Sumologic"
-    - tr: "TDD / BDD (Cucumber)"
-    - tr: "Kafka / RabbitMQ"
-    - tr: "Maven / Bower / Grunt / NPM"
-    - tr: "REST / SOAP web-services"
-    - tr: "Git / Mercurial / Gerrit"
-    - tr: "Scrum / Agile / pair programming experience"
-
+    - tr: "Timeline / Risk / Stakeholder/ Roadmap Management"
+    - tr: "Agile / Waterfall"
+    - tr: "Salesforce Administration"
+    - tr: "Tableau"
+    
 
 certifications:
   - name: Salesforce Certified Administrator
@@ -76,17 +73,17 @@ certifications:
   - name: Certified Srum Master (CSM)
     issuer: Scrum Alliance
     date: November 2020
-    link: https://bcert.me/bc/html/show-badge.html?b=dunxujtm
+    link: https://bcert.me/sdunxujtm
     badge: data_sci_found_cert.png
 
 education:
   - name: National Research University of Electronic Technology
-    degree: Master''s degree, Computer Science and Telecommunications
+    degree: Master's degree, Computer Science and Telecommunications
     location: Moscow, Russia
     dates: 2007 – 2013
     link: https://eng.miet.ru/
   - name: Wrexham Glyndŵr University
-    degree: Master''s degree, Computer Science
+    degree: Master's degree, Computer Science
     location: Wrexham, UK
     dates: 2011 – 2013
     link: https://glyndwr.ac.uk/

@@ -88,11 +88,11 @@
 
         <li><i class="fa fa-comments-o"></i> {{site.data.cv.person.spokenLanguages}}</li>
 
-        <li><i class="fa fa-envelope-o"></i> <a href="mailto: {{ site.data.cv.person.email }}">{{
+        <li><i class="fa fa-envelope-o"></i> <a href="mailto: {{ site.data.cv.person.email }}" target="_blank">{{
           site.data.cv.person.email }}</a></li>
 
         {% if site.data.cv.person.site %}
-        <li><i class="fa fa-laptop"></i> <a href="{{site.data.cv.person.site}}">pavelmakhov.com</a></li>
+        <li><i class="fa fa-laptop"></i> <a href="{{site.data.cv.person.site}}" target="_blank">pavelmakhov.com</a></li>
         {% endif %}
 
         {% if site.data.cv.person.phone %}
@@ -101,7 +101,7 @@
 
         {% if site.data.cv.person.linkedin %}
         <li><i class="fa fa-linkedin"></i>
-          <a href="https://www.linkedin.com/in{{site.data.cv.person.linkedin}}">linkedin.com/in/streetturtle</a></li>
+          <a href="https://www.linkedin.com/in{{site.data.cv.person.linkedin}}" target="_blank">linkedin.com/in/{{site.data.cv.person.linkedin}}</a></li>
         {% endif %}
       </ul>
     </div>
@@ -118,7 +118,7 @@
         <div class="row" style="padding-bottom:20px">
           <div class="col-xs-8">
             <div>
-                <a href="{{item.company-site}}" style="text-decoration: none !important">
+                <a href="{{item.company-site}}" target="_blank" style="text-decoration: none !important">
                     <img style="height: 40px;display: inline-block;vertical-align: middle;"
                          src="{{ site.url }}/assets/{{ item.logo }}">
                 </a>
@@ -126,7 +126,7 @@
                 <div><b>{{ item.position }}</b></div>
                   <div>
                       {% if item.company-site %}
-                        <a href="{{item.company-site}}">{{ item.company }}</a>
+                        <a href="{{item.company-site}}" target="_blank">{{ item.company }}</a>
                       {% else %}
                         {{item.company}}
                       {% endif %}
@@ -192,7 +192,7 @@
       {% endif %}
 
       <div class="col-xs-6" style="padding-top: 5px; padding-bottom: 5px;">
-        <a href="{{ item.link }}"><img style="height: 90px;display: inline-block;vertical-align: middle;"
+        <a href="{{ item.link }}" target="_blank"><img style="height: 90px;display: inline-block;vertical-align: middle;"
                                        src="{{ site.url }}/assets/{{ item.badge }}"></a>
         <div style="display: inline-block; vertical-align: middle;">
           <div><b>{{ item.name }}</b></div>
@@ -219,7 +219,7 @@
       <div class="row">
         <div class="col-xs-12"><h4><b>{{item.name}}</b></h4></div>
         <div class="col-xs-12"><i class="fa fa-graduation-cap"></i> {{item.degree}} ({{item.dates}})</div>
-        <div class="col-xs-12"><a href="{{item.link}}">{{item.link}}</a>, {{item.location}}</div>
+        <div class="col-xs-12">{{item.location}}</div>
       </div>
       {% endfor %}
     </div>

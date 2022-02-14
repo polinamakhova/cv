@@ -1,6 +1,6 @@
 person:
   name: Polina Makhova
-  profession: Product Manager / Experienced Project Manager
+  profession: Product Manager / Project Manager
   location: Montreal, Canada
   email: makhova.polina@gmail.com
   linkedin: /polina-makhova
@@ -17,7 +17,7 @@ career:
    location: Montreal, Canada
    country: ca
    dates: 04.2020 - current
-   summary: Leading internal Integration, Data and BI projects 
+   summary: Leading Integration, Data and BI projects 
    accomplishments:
     - accomplishment: Identifying and maintaining scope and roadmap for Integration and BI projects
     - accomplishment: Managing Salesforce, Integration, Data Migration and BI projects from kick-off to closure
@@ -33,7 +33,7 @@ career:
    country: ca
    dates: 01.2017 - 03.2020
    duration: 3yrs 2mos
-   summary: Managing customer Salesforce projects in retail, fintech and education sectors 
+   summary: Managing Salesforce projects in retail, fintech and education sectors 
    accomplishments:
     - accomplishment: Running requirements gathering sessions with key stakeholders
     - accomplishment: Creating and maintaning technical solution documentation to support project implementation and scope management

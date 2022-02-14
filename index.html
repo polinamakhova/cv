@@ -102,12 +102,6 @@
         <li><i class="fa fa-linkedin"></i>
           <a href="https://www.linkedin.com/in{{site.data.cv.person.linkedin}}">linkedin.com/in/streetturtle</a></li>
         {% endif %}
-
-        <li><i class="fa fa-github"></i>
-          <a href="https://github.com{{site.data.cv.person.github}}">{{site.data.cv.person.github}}</a></li>
-        <li><i class="fa fa-stack-overflow"></i>
-          <a href="http://stackoverflow.com/users/1252056{{site.data.cv.person.stackoverflow}}">
-            {{site.data.cv.person.stackoverflow}}</a></li>
       </ul>
     </div>
   </div>
@@ -176,7 +170,6 @@
     </div>
     <div class="col-xs-9">
       <div class="competencies">
-        <h4><i class="fa fa-male"></i> Key competencies:</h4>
         <ul>
           {% for item in site.data.cv.technicalSkills.list %}
           <li>{{item.tr}}</li>
@@ -199,7 +192,7 @@
 
       <div class="col-xs-6" style="padding-top: 5px; padding-bottom: 5px;">
         <a href="{{ item.link }}"><img style="height: 90px;display: inline-block;vertical-align: middle;"
-                                       src="{{ site.url }}/{{ item.badge }}"></a>
+                                       src="{{ site.url }}/assets/{{ item.badge }}"></a>
         <div style="display: inline-block; vertical-align: middle;">
           <div><b>{{ item.name }}</b></div>
           <div>{{ item.issuer }}</div>

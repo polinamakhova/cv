@@ -49,13 +49,13 @@ career:
    country: ch
    dates: 08.2014 - 05.2016
    duration: 1yr 10mos
-   summary: Supporting key Information Systems
+   summary: Supporting key Information Systems within GAIN
    accomplishments:
-    - accomplishment: Designing and maintaining Project Management Information System in QuickBase
+    - accomplishment: Building and maintainig Project Management Information System in QuickBase
     - accomplishment: Gathering requirements from key stakeholders in Project Management and Research & Development departments
     - accomplishment: Building and maintaining SharePoint pages
     - accomplishment: Tier 1 IT support
-    - accomplishment: Active participation in Internal Communication initiatives
+    - accomplishment: Active participation in Internal Communition initiatives
 
 technicalSkills:
   list:
@@ -70,7 +70,7 @@ certifications:
   - name: Salesforce Certified Administrator
     issuer: Salesforce
     date: April 2017
-    badge: Salesforce.jpeg
+    badge: Salesforce.png
   - name: Certified Srum Master (CSM)
     issuer: Scrum Alliance
     date: November 2020

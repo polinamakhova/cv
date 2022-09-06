@@ -10,13 +10,23 @@ profile:
   profile: Experienced project manager with keen interest in technology and operation processes. Supporting teams on different levels (PM, BA, Scrum Master), depending on current business priorities and team needs.
 
 career:
+ - position: Senior Engagement Delivery Consultant
+   company: Salesforce
+   company-site: https://www.salesforce.com/ca/
+   logo: Salesforce.jpeg
+   location: Montreal, Canada
+   country: ca
+   dates: 04.2020 - current
+   summary: Supporting the Salesforce BT M&A team in defining new processes for the Traction on Demand systems.
+
  - position: Senior Technical Project Manager, Business Technology
    company: Traction on Demand
    company-site: https://www.tractionondemand.com/
    logo: Traction.png
    location: Montreal, Canada
    country: ca
-   dates: 04.2020 - current
+   dates: 04.2020 - 05.2022
+   duration: 2yrs 1mos
    summary: Leading Integration, Data and BI projects 
    accomplishments:
     - accomplishment: Identifying and maintaining scope and roadmap for Integration and BI projects
@@ -53,9 +63,6 @@ career:
    accomplishments:
     - accomplishment: Building and maintainig the Project Management Information System in QuickBase
     - accomplishment: Gathering requirements from key stakeholders in Project Management and Research & Development departments
-    - accomplishment: Building and maintaining SharePoint pages
-    - accomplishment: Tier 1 IT support
-    - accomplishment: Active participation in Internal Communication initiatives
 
 technicalSkills:
   list:

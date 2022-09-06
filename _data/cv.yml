@@ -67,9 +67,13 @@ technicalSkills:
     
 
 certifications:
-  - name: Salesforce Certified Administrator
+  - name: Certified Administrator
     issuer: Salesforce
     date: April 2017
+    badge: Salesforce.jpeg
+  - name: Certified Business Analyst
+    issuer: Salesforce
+    date: August 2022
     badge: Salesforce.jpeg
   - name: Certified Srum Master (CSM)
     issuer: Scrum Alliance

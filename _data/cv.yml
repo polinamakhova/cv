@@ -18,9 +18,9 @@ career:
    country: ca
    dates: 06.2022 - current
    summary: Currently working with Salesforce M&A team to support integration and migration of Traction on Demand (ToD) systems and data to ensure ToD business continuity. 
-     list:
-    - tr: "Workday migration"
-    - tr: "Salesforce Org migration"
+     accomplishments:
+    - accomplishment: "Workday migration support"
+    - accomplishment: "Salesforce Org migration support"
 
  - position: Senior Technical Project Manager, Business Technology
    company: Traction on Demand

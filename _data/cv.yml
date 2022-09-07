@@ -17,7 +17,7 @@ career:
    location: Montreal, Canada
    country: ca
    dates: 06.2022 - current
-   summary: Supporting the Salesforce BT M&A team in defining new processes for the Traction on Demand systems
+   summary: Currently working with Salesforce M&A team to support integration and migration of Traction on Demand (ToD) systems and data to ensure ToD business continuity. Transition to consulting role – targeted September 2022.
 
  - position: Senior Technical Project Manager, Business Technology
    company: Traction on Demand
@@ -27,13 +27,13 @@ career:
    country: ca
    dates: 04.2020 - 05.2022
    duration: 2yrs 1mos
-   summary: Leading Integration, Data and BI projects 
+   summary: Integration, Data and BI project lead 
    accomplishments:
-    - accomplishment: Identifying and maintaining scope and roadmap for Integration and BI projects
-    - accomplishment: Managing Salesforce, Integration, Data Migration and BI projects from kick-off to closure
-    - accomplishment: Identifying and implementing a framework for delivering Integration and BI projects
-    - accomplishment: Building trust through regular, transparent and precise communication to stakeholders
-    - accomplishment: Managing projects where team members and stakeholders are located in different time zones
+    - accomplishment: Identify and maintain scope and roadmap for Integration and BI projects
+    - accomplishment: Manage Salesforce, Integration, Data Migration and BI projects from kick-off to closure
+    - accomplishment: Identify and implement a framework for delivering Integration and BI projects
+    - accomplishment: Build trust through regular, transparent and precise communication to stakeholders
+    - accomplishment: Manage projects where team members and stakeholders are located in different time zones
     
  - position: Project Manager, Delivery
    company: Traction on Demand
@@ -43,13 +43,13 @@ career:
    country: ca
    dates: 01.2017 - 03.2020
    duration: 3yrs 2mos
-   summary: Managing Salesforce projects in retail, fintech and education sectors 
+   summary: Project management of Salesforce projects in retail, fintech and education sectors 
    accomplishments:
-    - accomplishment: Running requirements gathering sessions with key stakeholders
-    - accomplishment: Creating and maintaning technical solution documentation to support project implementation and scope management
-    - accomplishment: Validating project deliverables against stakeholders requirements
-    - accomplishment: Managing risks and identifying mitigation strategies
-    - accomplishment: Managing day-to-day tasks for internal teams and stakeholders to ensure project timely delivery
+    - accomplishment: Run requirements gathering sessions with key stakeholders
+    - accomplishment: Create and maintain technical solution documentation to support project implementation and scope management
+    - accomplishment: Validate project deliverables against stakeholders requirements
+    - accomplishment: Manage risks and identify mitigation strategies
+    - accomplishment: Manage day-to-day tasks for internal teams and stakeholders to ensure project's timely delivery
 
  - position: IT/IS Junior Associate
    company: Global Alliance for Improved Nutrition (GAIN)
@@ -59,10 +59,10 @@ career:
    country: ch
    dates: 08.2014 - 05.2016
    duration: 1yr 10mos
-   summary: Supporting key Information Systems
+   summary: Maintanence and enhancement of GAIN's key Information Systems
    accomplishments:
-    - accomplishment: Building and maintainig the Project Management Information System in QuickBase
-    - accomplishment: Gathering requirements from key stakeholders in Project Management and Research & Development departments
+    - accomplishment: Build and maintain the Project Management Information System in QuickBase
+    - accomplishment: Gather requirements from key stakeholders in Project Management and Research & Development departments
 
 technicalSkills:
   list:

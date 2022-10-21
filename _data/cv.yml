@@ -94,6 +94,11 @@ certifications:
     date: November 2020
     link: https://bcert.me/sdunxujtm
     badge: scm.png
+  - name: Certified Scrum Product Owner (CSPO)
+    issuer: Scrum Alliance
+    date: October 2022
+    link: https://bcert.me/spymbutlq
+    badge: cspo.png
 
 education:
   - name: National Research University of Electronic Technology

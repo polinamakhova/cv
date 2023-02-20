@@ -1,23 +1,32 @@
 person:
   name: Polina Makhova
-  profession: Product Manager / Project Manager
+  profession: Product Manager / Business Analyst
   location: Montreal, Canada
   email: makhova.polina@gmail.com
   linkedin: /polina-makhova
   spokenLanguages: English / Russian / French
   
 profile:
-  profile: Experienced project manager with keen interest in technology and operation processes. Supporting teams on different levels (PM, BA, Scrum Master), depending on current business priorities and team needs.
+  profile: Experienced product manager with keen interest in technology and operation processes. Supporting teams on different levels (PM, BA, Scrum Master), depending on current business priorities and team needs.
 
 career:
+ - position: Product Manager
+   company: Lightspeed
+   company-site: https://www.lightspeedhq.com/
+   logo: Lightspeed_Flame.png
+   location: Montreal, Canada
+   country: ca
+   dates: 01.2023 - current
+   summary: Identify and manage key internal Salesforce initiatives; from requirements gathering and project kick-off to deployment management and user training.
+    
  - position: Senior Engagement Delivery Consultant
    company: Salesforce
    company-site: https://www.salesforce.com/ca/
    logo: Salesforce.jpeg
    location: Montreal, Canada
    country: ca
-   dates: 06.2022 - current
-   summary: Currently working with Salesforce M&A team to support integration and migration of Traction on Demand (ToD) systems and data to ensure ToD business continuity. Transition to consulting role within Mulesoft Professional Services group – targeted September 2022.
+   dates: 06.2022 - 12.2022
+   summary: Support the Salesforce M&A team with integration and migration of Traction on Demand (ToD) systems and data to ensure ToD business continuity.
    accomplishments:
     - accomplishment: "Workday migration support"
     - accomplishment: "Salesforce Org migration support"
